@@ -30,4 +30,4 @@ if (container && elements && controls && elements.children.length) {
 }
 ```
 
-![Stories Image][./preview.png]
+![slide-preview](preview.png)
